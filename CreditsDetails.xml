@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <ArrayOfBenfDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/">
 <BenfDetails>
 <RID>1</RID>
@@ -184,4 +183,5 @@ This XML file does not appear to have any style information associated with it. 
 <IRate>2.00</IRate>
 <Remarks>Refer by Rambabu</Remarks>
 </BenfDetails>
+
 </ArrayOfBenfDetails>
