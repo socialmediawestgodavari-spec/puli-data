@@ -1,0 +1,187 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ArrayOfBenfDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/">
+<BenfDetails>
+<RID>1</RID>
+<name>Bale Ramadevi</name>
+<amount>100000</amount>
+<date>20-01-2023</date>
+<IRate>2.00</IRate>
+<Remarks>Yearly Interest </Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>2</RID>
+<name>Bale Ramadevi</name>
+<amount>200000</amount>
+<date>26-02-2023</date>
+<IRate>2.00</IRate>
+<Remarks>Yearly Interest </Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>64</RID>
+<name>Buddala Phani</name>
+<amount>20000</amount>
+<date>01-09-2020</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by Ganesh</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>68</RID>
+<name>Dongala Rambabu</name>
+<amount>10000</amount>
+<date>14-01-2020</date>
+<IRate>2.00</IRate>
+<Remarks>additional 10000 cash date is NA</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>61</RID>
+<name>Govvada nagababu</name>
+<amount>103786</amount>
+<date>06-10-2021</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by Rambabu 1L on 12072019 credited 50k on 06102021</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>80</RID>
+<name>Jagu Durga</name>
+<amount>200000</amount>
+<date>01-05-2025</date>
+<IRate>2.00</IRate>
+<Remarks>received 1.68 upto 30042025 and may clear in 2 months</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>87</RID>
+<name>Korada Surya Narayana</name>
+<amount>50000</amount>
+<date>08-07-2020</date>
+<IRate>3.00</IRate>
+<Remarks>Given by Potti Sai 1 Town</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>77</RID>
+<name>Marbul mestri</name>
+<amount>6000</amount>
+<date>24-03-2020</date>
+<IRate>2.00</IRate>
+<Remarks>received 4K principal 1k interest on 24032020</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>88</RID>
+<name>Medisetti Kondayya TDP</name>
+<amount>149000</amount>
+<date>06-04-2024</date>
+<IRate>2.00</IRate>
+<Remarks>Rec.5 on 642024 - 16k pending from tdp and added in above amt and 1.5k addl amt given to mavya for last yr int.amt cut 1.5k from his share this time</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>149</RID>
+<name>Nulakani Radhakrishna</name>
+<amount>100000</amount>
+<date>11-07-2025</date>
+<IRate>2.00</IRate>
+<Remarks>vara babu</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>70</RID>
+<name>Payyavula Ganesh</name>
+<amount>8000</amount>
+<date>20-08-2019</date>
+<IRate>2.00</IRate>
+<Remarks>cellphone</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>69</RID>
+<name>Payyavula Ganesh</name>
+<amount>17720</amount>
+<date>30-09-2019</date>
+<IRate>2.00</IRate>
+<Remarks>10000 (20-03-2020),1000,3000,2120(recharge) , 1500(bike) , 3500(nokia) - 3400 cash given to someone </Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>3</RID>
+<name>Pulapakula Sunitha</name>
+<amount>312000</amount>
+<date>14-08-2023</date>
+<IRate>2.00</IRate>
+<Remarks>Pattinapalem thatha gari alludu. will be settles on 10-07-2021</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>39</RID>
+<name>Puli Srinivas</name>
+<amount>5000</amount>
+<date>24-04-2020</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by ganesh, addl Rs.5000/- pending for grills</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>44</RID>
+<name>S.Srinivas PH</name>
+<amount>10000</amount>
+<date>31-01-2020</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by Ganesh</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>43</RID>
+<name>S.Srinivas PH</name>
+<amount>200000</amount>
+<date>10-10-2019</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by Ganesh</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>20</RID>
+<name>yyUppu Bhaskara Rao</name>
+<amount>98200</amount>
+<date>17-12-2023</date>
+<IRate>2.00</IRate>
+<Remarks>90k satya includes kothur 20k.. addl 8k is home -Refer by Ganesh</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>60</RID>
+<name>yyVeera raju</name>
+<amount>200000</amount>
+<date>04-05-2022</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by Bale Ramadevi</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>52</RID>
+<name>zPatti Sagar</name>
+<amount>350000</amount>
+<date>06-06-2016</date>
+<IRate>2.00</IRate>
+<Remarks>Given for his sister mariiage</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>54</RID>
+<name>zRagolu Durga Rao</name>
+<amount>110000</amount>
+<date>15-05-2019</date>
+<IRate>2.00</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>13</RID>
+<name>zRagolu Mallibabu</name>
+<amount>600000</amount>
+<date>03-10-2019</date>
+<IRate>3.00</IRate>
+<Remarks>DPRO Office</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>72</RID>
+<name>zRajesh DPRO Office</name>
+<amount>56500</amount>
+<date>24-09-2019</date>
+<IRate>3.00</IRate>
+<Remarks>DPRO Office</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>14</RID>
+<name>zzzBandari Raraju</name>
+<amount>100000</amount>
+<date>31-05-2019</date>
+<IRate>2.00</IRate>
+<Remarks>Refer by Rambabu</Remarks>
+</BenfDetails>
+</ArrayOfBenfDetails>
