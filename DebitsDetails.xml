@@ -1,0 +1,107 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ArrayOfBenfDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/">
+<BenfDetails>
+<RID>155</RID>
+<name>CAR</name>
+<amount>184000</amount>
+<date>23-08-2023</date>
+<IRate>2</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>117</RID>
+<name>Puli Gayatri</name>
+<amount>100000</amount>
+<date>15-05-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>118</RID>
+<name>Puli Vijayabhaskar</name>
+<amount>500000</amount>
+<date>15-06-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>139</RID>
+<name>Vijaya Bank</name>
+<amount>1500000</amount>
+<date>01-05-2023</date>
+<IRate>0.84</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>115</RID>
+<name>zK Hasini</name>
+<amount>40000</amount>
+<date>17-06-2018</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>123</RID>
+<name>zPuli Annanya</name>
+<amount>100000</amount>
+<date>01-10-2016</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>102</RID>
+<name>zRVS Bharathi</name>
+<amount>200000</amount>
+<date>09-02-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>103</RID>
+<name>zRVS Bharathi</name>
+<amount>200000</amount>
+<date>15-05-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>112</RID>
+<name>zSatya aunty</name>
+<amount>50000</amount>
+<date>19-04-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>111</RID>
+<name>zSatya aunty</name>
+<amount>100000</amount>
+<date>08-04-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>113</RID>
+<name>zSatya aunty</name>
+<amount>100000</amount>
+<date>05-06-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>114</RID>
+<name>zSatya aunty</name>
+<amount>100000</amount>
+<date>16-09-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+<BenfDetails>
+<RID>110</RID>
+<name>zSatya aunty</name>
+<amount>300000</amount>
+<date>09-02-2020</date>
+<IRate>1.5</IRate>
+<Remarks>-</Remarks>
+</BenfDetails>
+</ArrayOfBenfDetails>
