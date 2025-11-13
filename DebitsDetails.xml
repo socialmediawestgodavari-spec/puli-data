@@ -1,7 +1,7 @@
 <ArrayOfBenfDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/">
 <BenfDetails>
 <RID>155</RID>
-<name>CAR</name>
+<name>Ramya Harshini</name>
 <amount>184000</amount>
 <date>23-08-2023</date>
 <IRate>2</IRate>
@@ -105,3 +105,4 @@
 </BenfDetails>
 
 </ArrayOfBenfDetails>
+
